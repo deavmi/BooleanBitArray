@@ -1,5 +1,7 @@
+using System;
 public class BooleanBitArrayTest
 {
+    
 public static void Main(string[] args)
 {
     //Testing
